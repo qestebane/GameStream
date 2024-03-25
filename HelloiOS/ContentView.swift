@@ -10,8 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         ZStack {
-            //toda la pantalla
-            //Color(.blue).ignoresSafeArea()
+
             Spacer(minLength: 10)
             Color(red: 19/255, green: 30/255, blue: 53/255, opacity:1.0).ignoresSafeArea()
             
